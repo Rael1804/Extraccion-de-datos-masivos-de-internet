@@ -28,7 +28,7 @@ def guardar_json(nombre_funcion, data):
     print(f" JSON guardado: {filename}")
 
 
-API_KEY = "9579770cd9174df481ee1cd3c42d4b08"
+API_KEY = ""
 BASE_URL = "https://api.rawg.io/api"
 REQUEST_DELAY = 1.0
 MAX_PAGES = 50
