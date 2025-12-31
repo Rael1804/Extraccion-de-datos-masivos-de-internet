@@ -1,0 +1,87 @@
+{
+  "count": 128,
+  "next": "https://api.rawg.io/api/tags?key=9579770cd9174df481ee1cd3c42d4b08&page=2&search=Zombie",
+  "previous": null,
+  "results": [
+    {
+      "name": "Zombies",
+      "slug": "zombies",
+      "games_count": 4540,
+      "image_background": "https://media.rawg.io/media/games/364/3642d850efb217c58feab80b8affaa89.jpg",
+      "id": 63,
+      "score": "24.196411"
+    },
+    {
+      "name": "zombie-waves",
+      "slug": "zombie-waves",
+      "games_count": 1,
+      "image_background": "https://media.rawg.io/media/screenshots/037/037616a73541c73cc1b6c5c040554e26.jpg",
+      "id": 10450,
+      "score": "22.72588"
+    },
+    {
+      "name": "zombie-invasion",
+      "slug": "zombie-invasion",
+      "games_count": 2,
+      "image_background": "https://media.rawg.io/media/screenshots/5e1/5e1c2a41c662c4cad3fe803c1f55ff76.jpg",
+      "id": 30173,
+      "score": "22.72588"
+    },
+    {
+      "name": "zombie-survivor",
+      "slug": "zombie-survivor",
+      "games_count": 1,
+      "image_background": "https://media.rawg.io/media/screenshots/ce1/ce159f9c7c7a607619dd088ae98b0cb4.jpg",
+      "id": 39168,
+      "score": "22.72588"
+    },
+    {
+      "name": "zombie-defense",
+      "slug": "zombie-defense",
+      "games_count": 0,
+      "image_background": null,
+      "id": 48961,
+      "score": "22.72588"
+    },
+    {
+      "name": "zombie-shooting",
+      "slug": "zombie-shooting",
+      "games_count": 1,
+      "image_background": "https://media.rawg.io/media/screenshots/900/900f58c1d3896be7820e2564f1efc400.jpg",
+      "id": 38309,
+      "score": "22.682766"
+    },
+    {
+      "name": "zombie-football",
+      "slug": "zombie-football",
+      "games_count": 1,
+      "image_background": "https://media.rawg.io/media/screenshots/5c6/5c601989e3deb19d18fb8149e239b425.jpg",
+      "id": 31270,
+      "score": "22.682766"
+    },
+    {
+      "name": "zombie-hunter",
+      "slug": "zombie-hunter",
+      "games_count": 2,
+      "image_background": "https://media.rawg.io/media/screenshots/7d7/7d794ae2699823dad8d997d0106dc4a3.jpg",
+      "id": 30106,
+      "score": "22.682766"
+    },
+    {
+      "name": "zombie-box",
+      "slug": "zombie-box",
+      "games_count": 1,
+      "image_background": "https://media.rawg.io/media/screenshots/063/063cd5e27427d32a9402b36bd91f8d3f.jpg",
+      "id": 85139,
+      "score": "22.682766"
+    },
+    {
+      "name": "zombie-villa",
+      "slug": "zombie-villa",
+      "games_count": 1,
+      "image_background": "https://media.rawg.io/media/screenshots/35a/35a499d36b45d8fc180e730bd645bb0b.jpg",
+      "id": 28635,
+      "score": "22.661575"
+    }
+  ]
+}

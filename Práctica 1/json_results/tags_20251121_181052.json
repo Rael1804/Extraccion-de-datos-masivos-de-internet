@@ -1,0 +1,87 @@
+{
+  "count": 57,
+  "next": "https://api.rawg.io/api/tags?key=9579770cd9174df481ee1cd3c42d4b08&page=2&search=Co-op",
+  "previous": null,
+  "results": [
+    {
+      "name": "Co-op",
+      "slug": "co-op",
+      "games_count": 4658,
+      "image_background": "https://media.rawg.io/media/games/27b/27b02ffaab6b250cc31bf43baca1fc34.jpg",
+      "id": 18,
+      "score": "70.82047"
+    },
+    {
+      "name": "Co-op Campaign",
+      "slug": "co-op-campaign",
+      "games_count": 44,
+      "image_background": "https://media.rawg.io/media/screenshots/3b9/3b9f4135faa62ae003abd86ff020ce39.jpg",
+      "id": 163,
+      "score": "36.181137"
+    },
+    {
+      "name": "co-op multiplayer",
+      "slug": "co-op-multiplayer",
+      "games_count": 2,
+      "image_background": "https://media.rawg.io/media/screenshots/3a0/3a057affa59084c3bca667686ccf733e.jpg",
+      "id": 409,
+      "score": "36.181137"
+    },
+    {
+      "name": "co-op-based",
+      "slug": "co-op-based",
+      "games_count": 1,
+      "image_background": "https://media.rawg.io/media/screenshots/4e7/4e7d15c7bae39f40152c23e22a6e2cfd.jpg",
+      "id": 39442,
+      "score": "36.181137"
+    },
+    {
+      "name": "co-op online",
+      "slug": "co-op-online",
+      "games_count": 0,
+      "image_background": null,
+      "id": 84770,
+      "score": "35.86708"
+    },
+    {
+      "name": "Co-op locale a schermo condiviso",
+      "slug": "co-op-locale-a-schermo-condiviso",
+      "games_count": 0,
+      "image_background": null,
+      "id": 71766,
+      "score": "28.921528"
+    },
+    {
+      "name": "couch-co-op",
+      "slug": "couch-co-op",
+      "games_count": 14,
+      "image_background": "https://media.rawg.io/media/screenshots/387/38741e3950c1839de4daef82bf494a5d.jpg",
+      "id": 1390,
+      "score": "26.322975"
+    },
+    {
+      "name": "self-co-op",
+      "slug": "self-co-op",
+      "games_count": 1,
+      "image_background": "https://media.rawg.io/media/screenshots/d88/d88693e049b04ae84fa1ca9d433ee0ac.jpg",
+      "id": 30097,
+      "score": "26.322975"
+    },
+    {
+      "name": "Online Co-Op",
+      "slug": "online-co-op",
+      "games_count": 1873,
+      "image_background": "https://media.rawg.io/media/games/d0f/d0f91fe1d92332147e5db74e207cfc7a.jpg",
+      "id": 9,
+      "score": "26.322975"
+    },
+    {
+      "name": "1jam-co-op",
+      "slug": "1jam-co-op",
+      "games_count": 0,
+      "image_background": null,
+      "id": 56048,
+      "score": "26.304604"
+    }
+  ]
+}

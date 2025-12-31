@@ -1,0 +1,50 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "text": null,
+      "name": "FromSoftware",
+      "exact_name": "fromsoftware",
+      "search_name": "fromsoftware",
+      "slug": "fromsoftware",
+      "top_games": [
+        2551,
+        3387,
+        50734,
+        14962,
+        3371,
+        51610,
+        5538,
+        3751,
+        4108,
+        326243,
+        12988,
+        28764,
+        43737,
+        385406,
+        58791,
+        28889,
+        4245,
+        28808,
+        28365,
+        605544,
+        42767,
+        3901,
+        244718,
+        42848,
+        42847,
+        281852,
+        52899,
+        53075,
+        57755,
+        23562
+      ],
+      "games_count": 63,
+      "image_background": "https://media.rawg.io/media/games/29c/29c6c21cc0c78cff6f45d23631cc82f4.jpg",
+      "id": 6763,
+      "score": "71.284"
+    }
+  ]
+}

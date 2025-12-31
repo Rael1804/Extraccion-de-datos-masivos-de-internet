@@ -1,0 +1,147 @@
+{
+  "count": 346,
+  "next": "https://api.rawg.io/api/developers?key=9579770cd9174df481ee1cd3c42d4b08&page=2&page_size=10&search=Larian",
+  "previous": null,
+  "results": [
+    {
+      "text": null,
+      "name": "Larian Studios",
+      "exact_name": "larian studios",
+      "search_name": "larian studios",
+      "slug": "larian-studios",
+      "top_games": [
+        16359,
+        41490,
+        10073,
+        18449,
+        17844,
+        19436,
+        18002,
+        59199,
+        324997,
+        40076,
+        36782,
+        304189,
+        20764,
+        32284,
+        333335
+      ],
+      "games_count": 15,
+      "image_background": "https://media.rawg.io/media/screenshots/c01/c0169cb887b2c233e493e21eae1e2865.jpg",
+      "id": 4056,
+      "score": "30.35571"
+    },
+    {
+      "text": null,
+      "name": "Lafian",
+      "exact_name": "lafian",
+      "search_name": "lafian",
+      "slug": "lafian",
+      "top_games": [],
+      "games_count": 0,
+      "image_background": null,
+      "id": 154121,
+      "score": "21.036308"
+    },
+    {
+      "text": null,
+      "name": "Larran",
+      "exact_name": "larran",
+      "search_name": "larran",
+      "slug": "larran",
+      "top_games": [],
+      "games_count": 0,
+      "image_background": null,
+      "id": 290686,
+      "score": "21.036308"
+    },
+    {
+      "text": null,
+      "name": "Qarian",
+      "exact_name": "qarian",
+      "search_name": "qarian",
+      "slug": "qarian",
+      "top_games": [
+        275290
+      ],
+      "games_count": 1,
+      "image_background": "https://media.rawg.io/media/screenshots/b7d/b7d0caa6e96330221b13d01c73d72fe5.jpg",
+      "id": 110726,
+      "score": "19.854256"
+    },
+    {
+      "text": null,
+      "name": "Aarian",
+      "exact_name": "aarian",
+      "search_name": "aarian",
+      "slug": "aarian",
+      "top_games": [],
+      "games_count": 0,
+      "image_background": null,
+      "id": 412118,
+      "score": "19.854256"
+    },
+    {
+      "text": null,
+      "name": "Darian Baptiste",
+      "exact_name": "darian baptiste",
+      "search_name": "darian baptiste",
+      "slug": "darian-baptiste",
+      "top_games": [
+        170937
+      ],
+      "games_count": 1,
+      "image_background": "https://media.rawg.io/media/screenshots/751/751af9986ae0f3019c22c4d7c8f2b00d.jpg",
+      "id": 78688,
+      "score": "17.139347"
+    },
+    {
+      "text": null,
+      "name": "Marian Walczak",
+      "exact_name": "marian walczak",
+      "search_name": "marian walczak",
+      "slug": "marian-walczak",
+      "top_games": [],
+      "games_count": 0,
+      "image_background": null,
+      "id": 372940,
+      "score": "17.139347"
+    },
+    {
+      "text": null,
+      "name": "Darian Segan",
+      "exact_name": "darian segan",
+      "search_name": "darian segan",
+      "slug": "darian-segan",
+      "top_games": [],
+      "games_count": 0,
+      "image_background": null,
+      "id": 431335,
+      "score": "17.139347"
+    },
+    {
+      "text": null,
+      "name": "Lorian Pierce",
+      "exact_name": "lorian pierce",
+      "search_name": "lorian pierce",
+      "slug": "lorian-pierce",
+      "top_games": [],
+      "games_count": 0,
+      "image_background": null,
+      "id": 442865,
+      "score": "17.139347"
+    },
+    {
+      "text": null,
+      "name": "marian-m12l",
+      "exact_name": "marian-m12l",
+      "search_name": "marian-m12l",
+      "slug": "marian-m12l",
+      "top_games": [],
+      "games_count": 0,
+      "image_background": null,
+      "id": 299128,
+      "score": "16.963089"
+    }
+  ]
+}
